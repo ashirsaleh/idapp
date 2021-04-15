@@ -24,9 +24,11 @@ class idapp extends StatelessWidget {
                 radius: 40.0,
               ),
             ),
+            
             Text("NAME",
             style: TextStyle(
               color: Colors.brown[500],
+              backgroundColor: Colors.brown,
               ),
             ),
             SizedBox(height: 10.0),
