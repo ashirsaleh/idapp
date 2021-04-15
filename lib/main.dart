@@ -27,7 +27,7 @@ class idapp extends StatelessWidget {
             
             Text("NAME",
             style: TextStyle(
-              color: Colors.brown[500],
+              color: Colors.brown[600],
               backgroundColor: Colors.brown,
               ),
             ),
